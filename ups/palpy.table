@@ -1,4 +1,2 @@
-setupRequired(numpy)
-setupRequired(python)
 
 envPrepend(PYTHONPATH, ${PRODUCT_DIR}/lib/python)
